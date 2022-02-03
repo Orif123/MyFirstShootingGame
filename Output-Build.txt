@@ -1,0 +1,3 @@
+﻿Build started...
+------ Build started: Project: Assembly-CSharp, Configuration: Debug Any CPU ------
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d9f12e31c5a1b38429f2782df311f5a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firstPos: {instanceID: 0}
+  - secondPos: {instanceID: 0}
+  - thirdPos: {instanceID: 0}
+  - SpawnedMonster: {fileID: 972979829553894473, guid: a42afac0f6aea78438c5281e56a7052c, type: 3}
+  - Player: {fileID: 522872078020830396, guid: 72c31002ce6753f4bbda8bbc03189e14, type: 3}
+  - rb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

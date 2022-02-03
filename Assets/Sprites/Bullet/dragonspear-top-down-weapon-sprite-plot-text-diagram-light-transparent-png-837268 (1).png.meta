@@ -1,0 +1,2110 @@
+fileFormatVersion: 2
+guid: 75d56684998448e489392cf504d7f01d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1663538067550070979
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_0
+  - first:
+      213: -2136970453632591065
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_1
+  - first:
+      213: -9163521260761758457
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_2
+  - first:
+      213: 5033053914886592781
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_3
+  - first:
+      213: -6796295795303146679
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_4
+  - first:
+      213: 5845102746787529854
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_5
+  - first:
+      213: 504442173874342770
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_6
+  - first:
+      213: -5519662002034098524
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_7
+  - first:
+      213: -5326602326351184104
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_8
+  - first:
+      213: 8438171768739060125
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_9
+  - first:
+      213: 5780197556806391940
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_10
+  - first:
+      213: -1829203685074028325
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_11
+  - first:
+      213: -4867542473504032035
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_12
+  - first:
+      213: -1748335799593898736
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_13
+  - first:
+      213: 8684233725567810146
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_14
+  - first:
+      213: -5274663075666909956
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_15
+  - first:
+      213: -8466925052060096574
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_16
+  - first:
+      213: 7281763838219689735
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_17
+  - first:
+      213: 2230290908418925566
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_18
+  - first:
+      213: 1843095332199950616
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_19
+  - first:
+      213: 4770455312285361715
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_20
+  - first:
+      213: -5956848198640602289
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_21
+  - first:
+      213: 1419660782994092209
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_22
+  - first:
+      213: 6110613793904581579
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_23
+  - first:
+      213: -8766001813319555994
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_24
+  - first:
+      213: -4111324664859717990
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_25
+  - first:
+      213: -3125149082576443104
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_26
+  - first:
+      213: 32616568356824685
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_27
+  - first:
+      213: 3574831739371289170
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_28
+  - first:
+      213: 8002177927623247228
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_29
+  - first:
+      213: -5750854789151275043
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_30
+  - first:
+      213: 2147395101133970922
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_31
+  - first:
+      213: 6287524009900811362
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_32
+  - first:
+      213: -6746910053879424533
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_33
+  - first:
+      213: 7129263419782857754
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_34
+  - first:
+      213: 6370339260577446792
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_35
+  - first:
+      213: 3407152988419136719
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_36
+  - first:
+      213: -2976896173178315882
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_37
+  - first:
+      213: 4091994603138189697
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_38
+  - first:
+      213: 5323085037683654753
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_39
+  - first:
+      213: -6935242756504393285
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_40
+  - first:
+      213: -2786951718578257643
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_41
+  - first:
+      213: 3808676559250670764
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_42
+  - first:
+      213: 4319667342972950576
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_43
+  - first:
+      213: -121492328031471258
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_44
+  - first:
+      213: -2986790655926114145
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_45
+  - first:
+      213: 2338418150276340887
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_46
+  - first:
+      213: 8533048810239254551
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_47
+  - first:
+      213: -4384379846269449190
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_48
+  - first:
+      213: 6396866058943888978
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_49
+  - first:
+      213: -4999910680163176243
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_50
+  - first:
+      213: 1119010889161941056
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_51
+  - first:
+      213: -5495094950434491943
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_52
+  - first:
+      213: 1595801975937778880
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_53
+  - first:
+      213: -3648667895475530445
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_54
+  - first:
+      213: -7782108270708040419
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_55
+  - first:
+      213: -1176938686695581084
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_56
+  - first:
+      213: -5979515225658117706
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_57
+  - first:
+      213: -1839646962775914702
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_58
+  - first:
+      213: -7346126017671525121
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_59
+  - first:
+      213: 2630194497342518273
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_60
+  - first:
+      213: 4326303241705086351
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_61
+  - first:
+      213: -6374889316817489620
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_62
+  - first:
+      213: -5574893500743288316
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_63
+  - first:
+      213: -541146536124482524
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_64
+  - first:
+      213: -2110612221038394072
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_65
+  - first:
+      213: 8747619359082234252
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_66
+  - first:
+      213: -8461992959022440774
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_67
+  - first:
+      213: -8276233927269576201
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_68
+  - first:
+      213: -7261303521065740220
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_69
+  - first:
+      213: 3262624941266403710
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_70
+  - first:
+      213: -2537192564529635696
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_71
+  - first:
+      213: 5969347030799278071
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_72
+  - first:
+      213: 5160468923984569009
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_73
+  - first:
+      213: 1505922818359630619
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_74
+  - first:
+      213: 1767526804943133705
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_75
+  - first:
+      213: 2496664794437541699
+    second: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+      (1)_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 601
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37965df0fce9e8e0800000000000000
+      internalID: -1663538067550070979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 615
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b59bfc1b4f752e0800000000000000
+      internalID: -2136970453632591065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 616
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7054e88b6f1a4d080800000000000000
+      internalID: -9163521260761758457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 586
+        width: 13
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09543c8edff8d540800000000000000
+      internalID: 5033053914886592781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 616
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b99748bf4bea1a0800000000000000
+      internalID: -6796295795303146679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 615
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e744ee1caf9fd1150800000000000000
+      internalID: 5845102746787529854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 589
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b81870c73200700800000000000000
+      internalID: 504442173874342770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 597
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae398057a83663b0800000000000000
+      internalID: -5519662002034098524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 578
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f711ed76b1416b0800000000000000
+      internalID: -5326602326351184104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 578
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99db6d24886a1570800000000000000
+      internalID: 8438171768739060125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 597
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48896099d03673050800000000000000
+      internalID: 5780197556806391940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 582
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b351a0fc5d96e0800000000000000
+      internalID: -1829203685074028325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 585
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda7aa1e8e3037cb0800000000000000
+      internalID: -4867542473504032035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 575
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d6b157ad9acb7e0800000000000000
+      internalID: -1748335799593898736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 570
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26abfe6ff88948870800000000000000
+      internalID: 8684233725567810146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 570
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4210901e1acc6b0800000000000000
+      internalID: -5274663075666909956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 574
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c72a1c56807f7a80800000000000000
+      internalID: -8466925052060096574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 394
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f9e5361a50e0560800000000000000
+      internalID: 7281763838219689735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 396
+        width: 59
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e71eb3c593fe10800000000000000
+      internalID: 2230290908418925566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 394
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81965f2807df39910800000000000000
+      internalID: 1843095332199950616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 392
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336e4a1e4df043240800000000000000
+      internalID: 4770455312285361715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 392
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f913cf16055da0800000000000000
+      internalID: -5956848198640602289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 396
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b07aefd5f5a3b310800000000000000
+      internalID: 1419660782994092209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 395
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbd841ced24dc450800000000000000
+      internalID: 6110613793904581579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 393
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66468a88bc7e85680800000000000000
+      internalID: -8766001813319555994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 397
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e0cb20004a1f6c0800000000000000
+      internalID: -4111324664859717990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 396
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029a4e6977d31a4d0800000000000000
+      internalID: -3125149082576443104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 393
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6663ba9890e37000800000000000000
+      internalID: 32616568356824685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 397
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a7405d68a5c9130800000000000000
+      internalID: 3574831739371289170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 396
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7584758d627d0f60800000000000000
+      internalID: 8002177927623247228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 393
+        width: 59
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c8c1e90cd030b0800000000000000
+      internalID: -5750854789151275043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 397
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed118397741dcd10800000000000000
+      internalID: 2147395101133970922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 396
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264a0e636c5c14750800000000000000
+      internalID: 6287524009900811362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 393
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9510b7d092e52a0800000000000000
+      internalID: -6746910053879424533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 397
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14085ece4b30f260800000000000000
+      internalID: 7129263419782857754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 396
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b71755ecdf76850800000000000000
+      internalID: 6370339260577446792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 393
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc12225793a84f20800000000000000
+      internalID: 3407152988419136719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 397
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b9c78e3b0ffa6d0800000000000000
+      internalID: -2976896173178315882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 396
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1890ed6496fa9c830800000000000000
+      internalID: 4091994603138189697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 384
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160c45c83a56fd940800000000000000
+      internalID: 5323085037683654753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_40
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 236
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9647b157111cf90800000000000000
+      internalID: -6935242756504393285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_41
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 235
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5118af78d22c259d0800000000000000
+      internalID: -2786951718578257643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_42
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 235
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44e72c6232bd430800000000000000
+      internalID: 3808676559250670764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 236
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03812c5df8a82fb30800000000000000
+      internalID: 4319667342972950576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 201
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669bfb01f5f505ef0800000000000000
+      internalID: -121492328031471258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 198
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98611f19b9cc86d0800000000000000
+      internalID: -2986790655926114145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 206
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c1c8f0beab37020800000000000000
+      internalID: 2338418150276340887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_47
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 184
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7106161deaa7b6670800000000000000
+      internalID: 8533048810239254551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c4abe52cd8723c0800000000000000
+      internalID: -4384379846269449190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_49
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 159
+        width: 13
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7a1fd9cb36c850800000000000000
+      internalID: 6396866058943888978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_50
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 151
+        width: 13
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc031302abfbc9ab0800000000000000
+      internalID: -4999910680163176243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 151
+        width: 13
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040aa449976878f00800000000000000
+      internalID: 1119010889161941056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 159
+        width: 13
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d13f40c1408db3b0800000000000000
+      internalID: -5495094950434491943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_53
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 143
+        width: 13
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c443a3317d652610800000000000000
+      internalID: 1595801975937778880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 10
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3351fca61e35d5dc0800000000000000
+      internalID: -3648667895475530445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 8
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d51d852c5600490800000000000000
+      internalID: -7782108270708040419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_56
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 10
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a5819008caaafe0800000000000000
+      internalID: -1176938686695581084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 12
+        width: 59
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1bb95459e740da0800000000000000
+      internalID: -5979515225658117706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_58
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 11
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2378d9f85d24876e0800000000000000
+      internalID: -1839646962775914702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_59
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 12
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc0f61fe415d0a90800000000000000
+      internalID: -7346126017671525121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_60
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 8
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104b940c5f3508420800000000000000
+      internalID: 2630194497342518273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_61
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 12
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd37860ed1a0c30800000000000000
+      internalID: 4326303241705086351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_62
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 13
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2139a421f7d787a0800000000000000
+      internalID: -6374889316817489620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_63
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 9
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aff8be5eff1a2b0800000000000000
+      internalID: -5574893500743288316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_64
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 12
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cfddea7167d78f0800000000000000
+      internalID: -541146536124482524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_65
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 13
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82588621e5995b2e0800000000000000
+      internalID: -2110612221038394072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_66
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 9
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814d60d579c56970800000000000000
+      internalID: 8747619359082234252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_67
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 12
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe5c91cc36f09a80800000000000000
+      internalID: -8461992959022440774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_68
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 13
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f19f0fa719e42d80800000000000000
+      internalID: -8276233927269576201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_69
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 9
+        width: 59
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448559c6beaaa3b90800000000000000
+      internalID: -7261303521065740220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_70
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 12
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e718383191c274d20800000000000000
+      internalID: 3262624941266403710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_71
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 13
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ed2702ec41accd0800000000000000
+      internalID: -2537192564529635696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_72
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 9
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffd2df5f7167d250800000000000000
+      internalID: 5969347030799278071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_73
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 12
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2ea80252bad9740800000000000000
+      internalID: 5160468923984569009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_74
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 13
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b1b7713dc16e410800000000000000
+      internalID: 1505922818359630619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_75
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 9
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cdd9ba344878810800000000000000
+      internalID: 1767526804943133705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonspear-top-down-weapon-sprite-plot-text-diagram-light-transparent-png-837268
+        (1)_76
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f5ca3176fe5a220800000000000000
+      internalID: 2496664794437541699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
